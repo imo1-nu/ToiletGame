@@ -1,0 +1,12 @@
+# ninja log v5
+7	494	1731569552298039348	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	5e0efa32629405c6
+495	1013	1731569552817019140	/Users/futagamitakumi/mydir/ToiletGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/q5w6b5z5/obj/arm64-v8a/libswappywrapper.so	d9f053b105489389
+5	2846	1731569554661853108	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	11f820e87e627cfb
+3	2892	1731569554707245102	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	40122aeede8bf962
+6	2914	1731569554703379623	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	85f7306104ef448b
+6	2980	1731569554792194059	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	65b84c39bfaa4a2e
+1	2980	1731569554792324935	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f2711ab404779b17
+2	3211	1731569555026611112	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e2347e172e5aca96
+4	3539	1731569555355211922	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cce93291c9caa7d3
+0	3732	1731569555549350216	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4e597dd54a40d2d4
+3732	3949	1731569555759091052	/Users/futagamitakumi/mydir/ToiletGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/q5w6b5z5/obj/arm64-v8a/libgame.so	2f21a577e12f7c0
